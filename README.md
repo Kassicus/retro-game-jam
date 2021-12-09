@@ -1,1 +1,1 @@
-# retro-game-jam
+# Endless Bullet Hell Arena
